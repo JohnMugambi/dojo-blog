@@ -71,6 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Starting json server
 Type the following command on the terminal to run the json server
-  npx json-server --watch data/db.json --port 8000
+  `npx json-server --watch data/db.json --port 8000`
 
 
